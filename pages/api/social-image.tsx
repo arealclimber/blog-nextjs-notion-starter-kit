@@ -151,6 +151,12 @@ export default withOGImage<'query', 'id'>({
   }
 })
 
+// @font-face {
+//   font-family: 'Inter';
+//   font-style:  normal;
+//   font-weight: normal;
+//   src: url(data:font/woff2;charset=utf-8;base64,${interRegular}) format('woff2');
+// }
 const style = `
 @font-face {
   font-family: 'Inter';
