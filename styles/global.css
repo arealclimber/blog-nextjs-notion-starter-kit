@@ -13,10 +13,17 @@ html {
   margin: 0;
 }
 
+@font-face {
+  font-family: 'Cera';
+  src: url('/fonts/Cera.otf');
+  font-weight: 300;
+  font-style: normal;
+}
+
 body {
-  --notion-font: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont,
-    'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans',
-    'Droid Sans', 'Helvetica Neue', 'Noto Sans', sans-serif;
+  --notion-font: 'Cera', ui-sans-serif, system-ui, -apple-system,
+    BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell',
+    'Fira Sans', 'Droid Sans', 'Helvetica Neue', 'Noto Sans', sans-serif;
   font-family: var(--notion-font);
   overflow-x: hidden;
 }
