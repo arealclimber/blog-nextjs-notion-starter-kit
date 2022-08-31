@@ -11,7 +11,7 @@ export default siteConfig({
   // basic site info (required)
   name: 'Blog powered by NextJS',
   domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
-  author: 'Shirley Chang',
+  author: 'Shirley',
 
   // open graph metadata (optional)
   description: 'Learning notes',
@@ -60,6 +60,6 @@ export default siteConfig({
       title: 'All',
       pageId: 'f8fdfe7370d642ad877c9d52a1c0fc70?v=888f9213c112458f8b7ba587b8a9e380'
     },
-    
+
   ]
 })
