@@ -1,0 +1,6 @@
+{
+  "redirects": [{
+    "source": "/blog",
+    "destination": "https://arealclimber.com"
+  }]
+}
