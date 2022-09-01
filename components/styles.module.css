@@ -86,11 +86,11 @@
 }
 
 .toggleDarkMode:hover {
-  color: #2795e9;
+  color: #6f9ec3;
 }
 
 .twitter:hover {
-  color: #2795e9;
+  color: #6f9ec3;
 }
 
 .zhihu:hover {
@@ -98,7 +98,7 @@
 }
 
 .github:hover {
-  color: #c9510c;
+  color: #7e38379e;
 }
 
 .youtube:hover {
@@ -106,11 +106,11 @@
 }
 
 .linkedin:hover {
-  color: #0077b5;
+  color: #3766e5;
 }
 
 .newsletter:hover {
-  color: #777777;
+  color: #529af1;
 }
 
 .comments {
