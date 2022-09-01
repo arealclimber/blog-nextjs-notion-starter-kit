@@ -1,6 +1,6 @@
 {
   "redirects": [{
-    "source": "/blog",
-    "destination": "https://arealclimber.com"
+    "source": "/",
+    "destination": "https://www.arealclimber.me/notes"
   }]
 }
