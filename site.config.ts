@@ -14,7 +14,7 @@ export default siteConfig({
   author: 'Shirley',
 
   // open graph metadata (optional)
-  description: 'Here are notes I learn from books, speeches, lectures, projects, or life.',
+  description: 'Notes I learn from books, speeches, lectures, projects, or life.',
 
   // social usernames (optional)
   twitter: 'arealclimber',
