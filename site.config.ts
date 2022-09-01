@@ -9,8 +9,8 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Blog powered by NextJS',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
+  name: "Shirley's notes",
+  domain: 'blog.arealclimber.me',
   author: 'Shirley',
 
   // open graph metadata (optional)
