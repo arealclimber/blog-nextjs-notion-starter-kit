@@ -20,7 +20,7 @@ export default siteConfig({
   twitter: 'arealclimber',
   github: 'arealclimber',
   linkedin: 'arealclimber',
-  newsletter: 'https://tinyletter.com/arealclimber/', // optional newsletter URL
+  // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
   // default notion icon and cover images for site-wide consistency (optional)
