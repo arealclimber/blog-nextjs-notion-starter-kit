@@ -44,7 +44,7 @@ export default siteConfig({
   // pageUrlOverrides: {
   //   '/foo': '067dd719a912471ea9a3ac10710e7fdf',
   //   '/bar': '0be6efce9daf42688f65c76b89f8eb27'
-  // }
+  // },
   pageUrlOverrides: null,
 
   // whether to use the default notion navigation style or a custom one with links to
@@ -54,7 +54,7 @@ export default siteConfig({
   navigationLinks: [
     {
       title: 'zh', 
-      pageId: 'a9ec351df8a945d295b380c2041a2784?v=5d5006e7ddbb4accbc8b96bcb046d7a7'
+      pageId: 'cards-c55c7b096ead4a8e9d3f0f23f9bda69b'
     },
     {
       title: 'Blog',
