@@ -17,6 +17,7 @@ export default siteConfig({
   description: 'Notes I learn from books, speeches, lectures, projects, or life.',
 
   // social usernames (optional)
+  // medium: 'arealclimber',
   twitter: 'arealclimber',
   github: 'arealclimber',
   linkedin: 'arealclimber',

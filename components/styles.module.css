@@ -86,7 +86,8 @@
 }
 
 .toggleDarkMode:hover {
-  color: #6f9ec3;
+  color: #738496f0;
+  transition: color 50ms ease-out;
 }
 
 .twitter:hover {
