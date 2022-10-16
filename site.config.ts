@@ -20,7 +20,7 @@ export default siteConfig({
   twitter: 'arealclimber',
   github: 'arealclimber',
   linkedin: 'arealclimber',
-  // newsletter: '#', // optional newsletter URL
+  newsletter: 'https://tinyletter.com/arealclimber/', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
   // default notion icon and cover images for site-wide consistency (optional)
@@ -53,17 +53,21 @@ export default siteConfig({
   navigationStyle: 'custom',
   navigationLinks: [
     {
-      title: 'zh', 
-      pageId: 'cards-c55c7b096ead4a8e9d3f0f23f9bda69b'
+      title: 'Zh', 
+      pageId: 'a9ec351df8a945d295b380c2041a2784?v=b93dddcf6da74c1d88d5b8341c38a0e2'
     },
     {
-      title: 'Blog',
+      title: 'En',
       pageId: 'Blog-03eecbbbdc65454688c4a339e67ecd10'
     },
     {
-      title: 'All',
-      pageId: 'f8fdfe7370d642ad877c9d52a1c0fc70?v=888f9213c112458f8b7ba587b8a9e380'
+      title: 'Tech',
+      pageId: 'Technology-2c9046c18b3444a69d83d0490eb38bb4'
     },
+    // {
+    //   title: 'All',
+    //   pageId: 'f8fdfe7370d642ad877c9d52a1c0fc70?v=888f9213c112458f8b7ba587b8a9e380'
+    // },
 
   ]
 })
