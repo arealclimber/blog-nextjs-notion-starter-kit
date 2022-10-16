@@ -60,14 +60,14 @@ export default siteConfig({
       title: 'En',
       pageId: 'Blog-03eecbbbdc65454688c4a339e67ecd10'
     },
-    {
-      title: 'Tech',
-      pageId: 'Technology-2c9046c18b3444a69d83d0490eb38bb4'
-    },
     // {
-    //   title: 'All',
-    //   pageId: 'f8fdfe7370d642ad877c9d52a1c0fc70?v=888f9213c112458f8b7ba587b8a9e380'
+    //   title: 'Tech',
+    //   pageId: 'Technology-2c9046c18b3444a69d83d0490eb38bb4'
     // },
+    {
+      title: 'All',
+      pageId: 'f8fdfe7370d642ad877c9d52a1c0fc70?v=888f9213c112458f8b7ba587b8a9e380'
+    },
 
   ]
 })
