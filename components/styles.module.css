@@ -98,7 +98,9 @@
 }
 
 .github:hover {
+
   color: #4adbdb9e;
+
 }
 
 .youtube:hover {
@@ -106,11 +108,13 @@
 }
 
 .linkedin:hover {
+
   color: #f1cf61;
 }
 
 .newsletter:hover {
   color: #f86d6d;
+
 }
 
 .comments {
