@@ -54,12 +54,12 @@ export default siteConfig({
   navigationStyle: 'custom',
   navigationLinks: [
     {
-      title: 'Zh', 
+      title: 'zh', 
       pageId: 'a9ec351df8a945d295b380c2041a2784?v=5d5006e7ddbb4accbc8b96bcb046d7a7'
     },
     {
-      title: 'En',
-      pageId: 'd9ed15d68f044a5c9835e22bf67afa32'
+      title: 'en',
+      pageId: 'Blog-d9ed15d68f044a5c9835e22bf67afa32'
     },
     // {
     //   title: 'Tech',
@@ -67,7 +67,7 @@ export default siteConfig({
     // },
     {
       title: 'About',
-      pageId: '9228b7201c584baeb1de441edcb9610d'
+      pageId: 'Shirley-Chang-9228b7201c584baeb1de441edcb9610d'
     },
 
   ]
