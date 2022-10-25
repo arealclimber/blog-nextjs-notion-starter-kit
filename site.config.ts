@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: 'Shirley-s-Notes-6e13b9f54006492ca9db8ae58dfef2c3',
+  rootNotionPageId: 'Arealclimber-6e13b9f54006492ca9db8ae58dfef2c3',
   
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -21,7 +21,7 @@ export default siteConfig({
   twitter: 'arealclimber',
   github: 'arealclimber',
   linkedin: 'arealclimber',
-  newsletter: 'https://tinyletter.com/arealclimber/', // optional newsletter URL
+  // newsletter: 'https://tinyletter.com/arealclimber/', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
   // default notion icon and cover images for site-wide consistency (optional)
@@ -54,20 +54,20 @@ export default siteConfig({
   navigationStyle: 'custom',
   navigationLinks: [
     {
-      title: 'Zh', 
-      pageId: 'a9ec351df8a945d295b380c2041a2784?v=b93dddcf6da74c1d88d5b8341c38a0e2'
+      title: 'zh', 
+      pageId: 'a9ec351df8a945d295b380c2041a2784?v=5d5006e7ddbb4accbc8b96bcb046d7a7'
     },
     {
-      title: 'En',
-      pageId: 'Blog-03eecbbbdc65454688c4a339e67ecd10'
+      title: 'en',
+      pageId: 'Blog-d9ed15d68f044a5c9835e22bf67afa32'
     },
     // {
     //   title: 'Tech',
     //   pageId: 'Technology-2c9046c18b3444a69d83d0490eb38bb4'
     // },
     {
-      title: 'All',
-      pageId: 'f8fdfe7370d642ad877c9d52a1c0fc70?v=888f9213c112458f8b7ba587b8a9e380'
+      title: 'About',
+      pageId: 'Shirley-Chang-9228b7201c584baeb1de441edcb9610d'
     },
 
   ]
